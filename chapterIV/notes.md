@@ -5,3 +5,9 @@
     Patologia se refiere a las enfermedades del cuerpo humano.
     
 
+#### Arterias
+
+- Arteria carótida : En el cuello
+- Arteria braquial: En el brazo
+- Arteria radial : En la muñeca
+- Arteria femoral : En la ingle

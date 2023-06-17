@@ -5,6 +5,9 @@
 - La mayoría de los pacientes llevados a los hospitales 
  de especialidades son referidos por los médicos generales
 
-#### Activación del SEM
+#### Dirección medica
 
+- Órdenes permanentes [DIrección médica fuera de linea]
+- Contacto directo por teléfono o radio[Dirección médica en linea]
 
+#### 
