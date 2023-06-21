@@ -69,3 +69,12 @@
 - Pérdida de la función de los órganos
 - Pérdida de la función de los músculos
 
+### Aparato circulatorio
+
+- Corazón
+- Sangre
+- Vasos sanguíneos
+
+Vasos sanguíneos: Arterias, venas y capilares
+Sangre: Plasma, glóbulos rojos, glóbulos blancos y plaquetas
+Corazón: Aurícula derecha, ventrículo derecho, aurícula izquierda, ventrículo izquierdo
