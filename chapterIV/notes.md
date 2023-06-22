@@ -75,6 +75,10 @@
 - Sangre
 - Vasos sanguíneos
 
-Vasos sanguíneos: Arterias, venas y capilares
+Vasos sanguíneos: Los tipos de vasos son:
+arterias, arteriolas, capilares, vénulas y venas.
+
 Sangre: Plasma, glóbulos rojos, glóbulos blancos y plaquetas
 Corazón: Aurícula derecha, ventrículo derecho, aurícula izquierda, ventrículo izquierdo
+
+### 
