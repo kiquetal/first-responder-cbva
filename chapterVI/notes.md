@@ -1,4 +1,4 @@
-### Control de la vía aérea
+**### Control de la vía aérea
 
 Formas de apertura de la via aera
 
@@ -16,4 +16,24 @@ cuando hay sospecha de lesión en la columna cervical.
 - Cánula orofaríngea: 
 Se utiliza cuando el paciente no tiene reflejo nauseoso.
 
--
+- Cánula nasofaríngea:
+
+Se utiliza cuando el paciente tiene reflejo nauseoso.
+
+### Respiración
+
+Disnea: Dificultad para respirar
+
+### Diferencias entre ventilación y respiración
+
+Ventilación: Intercambio de aire entre los pulmones y el ambiente.
+Respiración: Intercambio de gases entre los pulmones y la sangre.
+
+Estoma: Abertura artificial en la tráquea.
+Estribidor: Sonido de alta frecuencia que se escucha en la respiración.
+Sibilancia: Sonido de baja frecuencia que se escucha en la respiración.
+
+Ventilación en adultos: 10 a 12 ventilaciones por minuto.
+Ventilación en niños: 12 a 20 ventilaciones por minuto.
+
+
